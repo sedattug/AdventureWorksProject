@@ -1,6 +1,6 @@
 # AdventureWorksProject
 
-Component Versions
+Components Versions
 
 <b>Codeigniter</b> 3.1.8
 
