@@ -25,7 +25,7 @@ Components Versions
 <ul>
 <li><i>AdventureWorksProject/cronjobs/ADVENTURE_WORKS_EMAIL.xml</i></li>
 </ul>
-<p>6.) Replace the "AdventureWorks" with "YOUR_PROJECT_MAIN_FILENAME" on <b><i>"AdventureWorksProject/web.config"</i></b> file at line 11.</p>
-<p>7.) Replace the "AdventureWorks" with "YOUR_PROJECT_MAIN_FILENAME" on <b><i>"AdventureWorksProject/application/config/config.php"</i></b> file at line 2.</p>
+<p>6.) Replace the "AdventureWorks" with "YOUR_PROJECT_HOMEPAGE_NAME" on <b><i>"AdventureWorksProject/web.config"</i></b> file at line 11.</p>
+<p>7.) Replace the "AdventureWorks" with "YOUR_PROJECT_HOMEPAGE_NAME" on <b><i>"AdventureWorksProject/application/config/config.php"</i></b> file at line 2.</p>
 
 <p>You can use the sample API collection file located in the <b><i>"AdventureWorksProject / AdventureWorks.postman_collection.json"</i></b> directory</p>
