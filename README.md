@@ -25,3 +25,5 @@ Component Versions
 <ul>
 <li><i>AdventureWorksProject/cronjobs/ADVENTURE_WORKS_EMAIL.xml</i></li>
 </ul>
+<p>6.) Change the following row in <b><i>"AdventureWorksProject/web.config"</i></b> file;</p>
+<div class="background-color:#cdcdcd;"><action type="Rewrite" url="/YOUR_PROJECT_MAIN_FILENAME/index.php/{R:1}"  /></div>
