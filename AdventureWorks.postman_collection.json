@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "d2c4692b-6183-476f-b409-f76b2264ca28",
+		"name": "AdventureWorks",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1/AdventureWorks/api/reviews/add_review",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"name\": \"Elvis Presley\",\r\n\t\"email\": \"theking@elvismansion.com\",\r\n\t\"productid\": \"798\",\r\n\t\"review\": \"I really love the product and will recommend!\"\r\n}"
+				},
+				"url": {
+					"raw": "http://127.0.0.1/AdventureWorks/api/reviews/add_review",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"path": [
+						"AdventureWorks",
+						"api",
+						"reviews",
+						"add_review"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
