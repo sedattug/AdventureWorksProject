@@ -7,6 +7,7 @@ Component Versions
 <b>PHP</b> 7.1.x
 
 <b>PostgreSQL</b> 9.5.12
+<hr>
 
 <p>1.) Updated default AdventureWorks PostgreSQL database.</p>
 <p>2.) Run the sql file located in the <b><i>"AdventureWorksProject / scripts / update.sql"</i></b> directory.</p>
